@@ -1,0 +1,16 @@
+.fondo {
+    background: transparent url(../imgs/fondoia.jpg) 0% 0% no-repeat padding-box; 
+    opacity: 1;
+    height: 100vh;
+    margin: auto;
+    background-size: cover;
+    background-position: center;
+    border-bottom: 6px solid #621ae6;
+}
+
+.texto {
+    text-justify: justify;
+}
+
+
+
