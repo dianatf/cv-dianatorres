@@ -4,7 +4,7 @@ Hola, para acceder a mi CV ingresa al siguiente link:
 
 https://dianatf.github.io/cv-dianatorres/
 
-Pulls requests:
+Pull requests:
 
 https://github.com/pulls
 
